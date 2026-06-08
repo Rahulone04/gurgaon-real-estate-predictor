@@ -52,6 +52,7 @@ Deployed on AWS EC2
 ---
 
 ## 🗂️ Project Structure
+``` text
 gurgaon-real-estate-predictor/
 |
 ├── 📁 1_Web_scraping/
@@ -102,7 +103,7 @@ gurgaon-real-estate-predictor/
 ├── 📁 11_Insight_module/
 │   └── insights-module.ipynb              ← Business insights & findings
 │
-└── 📁 Project/real-estate-app/            ← 🚀 LIVE STREAMLIT APP
+└── 📁 Project/real-estate-app/            ←  LIVE STREAMLIT APP
 ├── home.py                            ← Main entry point
 ├── requirements.txt
 ├── df.pkl
@@ -119,6 +120,7 @@ gurgaon-real-estate-predictor/
 └── data_vi1.csv                   ← Visualization dataset
 
 ---
+```
 
 ## Tech Stack
 
