@@ -176,7 +176,7 @@ streamlit run home.py
 The trained model file `pipeline.pkl` (~140MB) exceeds GitHub's 
 file size limit.
 
-**[Download pipeline.pkl from Google Drive](YOUR_GOOGLE_DRIVE_LINK)**
+**[Download pipeline.pkl from Google Drive](https://drive.google.com/uc?export=download&id=1LJyKIrmj4f6cU33jeO_wgiRZ65C5N9MS)**
 
 After downloading, place it in: `Project/real-estate-app/`
 
